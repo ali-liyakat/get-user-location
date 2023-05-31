@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #89d0e7;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(60, 6, 161);
+}
+#btn{
+    padding: 4px;
+    border-radius: 7px;
+    margin-left: 700px;
+    background-color: #6e4209;
+}
+#btn:hover{
+    background-color: #412fe9;
+    color: white;
+}
+#place{
+    margin-left: 650px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: rgb(221, 17, 17);
+}
